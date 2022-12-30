@@ -5,11 +5,13 @@
 1.En el 1 Ejercicio entramos al directiorio thecmdchallenge/ usando el comando "cd thecmdchallenge/"
 
 2.En 2  ejercico imprimiremos el directorio en el que  nos encontramos 
-```cd dirs```
+``` dirs```
 
-3.En el tercer ejercicio debemos imprimir  todos los archivos por lo tanto usaremos ``` ls .-foundcode-*.js```
+3.Now list all the files inside the project, recursively (all files in the hierarchy).
+usaremos el comando ```ls * -r``` y apareceran todos los archivos en orden alfabetico.
 
-4.
+4.Clear all the clutter from the command line 
+El comando 
 
 5.Clear para limìar el CMD
 
@@ -23,7 +25,7 @@
 
 10.
 
-
+En el tercer ejercicio debemos imprimir  todos los archivos por lo tanto usaremos ``` ls .-foundcode-*.js```
 >texto de subtitulos 
 cd direc
 
